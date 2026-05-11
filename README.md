@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=80&lines=Nathan+%C2%B7+ImChicoo;D%C3%A9veloppeur+Full-Stack" alt="Nathan · ImChicoo — Développeur Auto-didacte" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=80&lines=Nathan+%C2%B7+ImChicoo;D%C3%A9veloppeur" alt="Nathan · ImChicoo — Développeur Auto-didacte" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Développeur full-stack autodidacte · FR / EN
+## Développeur autodidacte · FR / EN
 
 Je construis des **applications web complexes déployées en production** — pas des prototypes, du vrai code utilisé par de vraies personnes.
 
