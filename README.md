@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=80&lines=Nathan+%C2%B7+ImChicoo;D%C3%A9veloppeur+Full-Stack" alt="Nathan · ImChicoo — Développeur Full-Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=80&lines=Nathan+%C2%B7+ImChicoo;D%C3%A9veloppeur+Full-Stack" alt="Nathan · ImChicoo" />
 
 <br/>
 
@@ -17,7 +17,7 @@ Je construis des **applications web complexes déployées en production** — pa
 
 ```typescript
 const nathan = {
-  type:        "full-stack",
+  type:        "developper",
   autodidact:  true,
   ships:       ["DOJ Generator"],
   inProduction: true,
