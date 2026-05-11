@@ -1,24 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=80&lines=Nathan+%C2%B7+ImChicoo;D%C3%A9veloppeur+Full-Stack" alt="Nathan · ImChicoo" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=80&lines=Nathan+%C2%B7+ImChicoo;D%C3%A9veloppeur+Full-Stack" alt="Nathan · ImChicoo — Développeur Auto-didacte" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230a0f1c.svg?style=for-the-badge&logo=vercel&logoColor=f59e0b)](https://YOUR_PORTFOLIO_URL)&nbsp;
-[![DOJ Generator](https://img.shields.io/badge/DOJ_Generator-Live-%23f59e0b.svg?style=for-the-badge&logo=googlechrome&logoColor=black)](https://imchico-document-generator.org)
+[![DOJ Generator](https://img.shields.io/badge/DOJ_Generator-Live-%23f59e0b.svg?style=for-the-badge&logo=googlechrome&logoColor=black)](https://imchico-document-generator.org)&nbsp;
+[![AtlasRP Discord](https://img.shields.io/badge/AtlasRP_Discord-2550+_membres-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gqaw6ke6)
 
 </div>
 
 ---
 
-## Développeur full-stack autodidacte
+## Développeur full-stack autodidacte · FR / EN
 
 Je construis des **applications web complexes déployées en production** — pas des prototypes, du vrai code utilisé par de vraies personnes.
+
+J'ai notamment développé le **DOJ Generator** pour [AtlasRP](https://discord.gg/gqaw6ke6), une communauté GTA V roleplay de **2 550+ membres**.
 
 ```typescript
 const nathan = {
   type:        "developper",
   autodidact:  true,
+  languages:   ["French", "English"],
+  community:   "AtlasRP — 2550+ members",
   ships:       ["DOJ Generator"],
   inProduction: true,
   status:      "open to work",
@@ -55,7 +60,7 @@ const nathan = {
 
 ## Projet principal — DOJ Generator
 
-> Application web full-stack multi-utilisateurs pour un serveur GTA V roleplay — conçue, déployée et maintenue en production.
+> Application web conçue pour **AtlasRP** (2 550+ membres) — déployée et maintenue en production.
 
 | | Fonctionnalité | Détail |
 |---|---|---|
@@ -67,7 +72,8 @@ const nathan = {
 | 🛡️ | Sécurité | Helmet · rate limiting · DOMPurify · CORS strict |
 | ⚙️ | Admin | Logs, sessions actives, gestion des utilisateurs |
 
-[![Voir live →](https://img.shields.io/badge/Voir_live-%23f59e0b.svg?style=for-the-badge&logo=googlechrome&logoColor=black)](https://imchico-document-generator.org)
+[![Voir live →](https://img.shields.io/badge/Voir_live-%23f59e0b.svg?style=for-the-badge&logo=googlechrome&logoColor=black)](https://imchico-document-generator.org)&nbsp;
+[![AtlasRP →](https://img.shields.io/badge/AtlasRP_Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gqaw6ke6)
 
 ---
 
@@ -84,5 +90,5 @@ const nathan = {
 ---
 
 <div align="center">
-<sub>Conçu et développé par Nathan · autodidacte · builder</sub>
+<sub>Nathan · Autodidact · FR / EN</sub>
 </div>
